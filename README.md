@@ -16,7 +16,7 @@ Este projeto consiste em um jogo 2D (Pong) com arquitetura cliente-servidor para
 
 ## Passo a passo de como rodar
 
-### com o terminal aberto
+### Com o terminal aberto
 
 * 1 - Instalando o virtual enviroment do Python 
 
@@ -43,6 +43,6 @@ pip install -r requirements.txt
 python client.py
 ```
 
-## OBSERVAÇÃO
+### OBSERVAÇÃO
 
 Após a instalação, em caso de re-execução do programa pule para o passo 2 e posteriormente para o 4.
